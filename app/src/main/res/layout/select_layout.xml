@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <info.hoang8f.widget.FButton
+        fbutton:buttonColor="#708090"
+        fbutton:shadowColor="#000000"
+        fbutton:shadowEnabled="true"
+        fbutton:shadowHeight="10dp"
+        fbutton:cornerRadius="5dp"
+        android:id="@+id/fBtn_host"
+        android:text="Broadcasting"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="137dp"
+        android:layout_width="130dp"
+        android:layout_marginLeft="53dp"
+        android:layout_marginStart="53dp"
+        android:layout_height="50dp"/>
+
+    <info.hoang8f.widget.FButton
+        fbutton:buttonColor="#708090"
+        fbutton:shadowColor="#000000"
+        fbutton:shadowEnabled="true"
+        fbutton:shadowHeight="10dp"
+        fbutton:cornerRadius="5dp"
+        android:id="@+id/fBtn_guest"
+        android:text="Play Broadcast"
+        android:layout_width="130dp"
+        android:layout_marginTop="47dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/fBtn_host"
+        android:layout_alignLeft="@+id/fBtn_host"
+        android:layout_alignStart="@+id/fBtn_host" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play List"
+        android:id="@+id/play_list_btn"
+        android:layout_below="@+id/fBtn_guest"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp" />
+</RelativeLayout>

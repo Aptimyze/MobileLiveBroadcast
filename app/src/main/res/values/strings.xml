@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobileLiveBroadcast</string>
+    <string name="buffering">Buffering</string>
+    <string name="facebook_app_id">1771742153059994</string>
+    <string name="server_client_id">
+        1009750492168-o02659j2sgkpf867boj95uo8qtub2o1e.apps.googleusercontent.com
+    </string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009750492168",
+    "project_id": "mobile-live-study"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009750492168:android:7e6449582cad72ab",
+        "android_client_info": {
+          "package_name": "tae.mobilelivestudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009750492168-o02659j2sgkpf867boj95uo8qtub2o1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tae.mobilelivestudy",
+            "certificate_hash": "31644453F722155470191849D055AD8EEF3BEFCF"
+          }
+        },
+        {
+          "client_id": "1009750492168-712vt8o9rv18d13lsvkqdg249eqiirh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzSII1eEL1UOy4S9GvBHmHEd8rHF75_Ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
