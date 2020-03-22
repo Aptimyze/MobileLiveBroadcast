@@ -1,6 +1,6 @@
 ### Simple Mobile live broadcasting app for android
 
-Work time 5 months.
+Work time 5 months.(2016.01 ~ 05)
 
 Development during coding bootcamp.
 
